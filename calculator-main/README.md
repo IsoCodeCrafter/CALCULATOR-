@@ -5,6 +5,4 @@
 CSS
 JavaScript</h2>
 
-<h2> Ekran Görüntüsü </h2>
-
 ![](calculator.gif)
